@@ -4,4 +4,4 @@ Bodhi Custom Reports
 
 #### License
 
-mit
+mit# bodhi-reports
